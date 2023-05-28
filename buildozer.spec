@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = App Aula Teste
+title = Gasto Certo
 
 # (str) Package name
-package.name = aulaapp
+package.name = gastocerto
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
